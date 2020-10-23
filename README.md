@@ -7,7 +7,7 @@ logs, process and create some fact/dimensions tables described in our data schem
 
 For illustration purposes you can check out the graph that represents this pipeline's flow:
 
-![Directed Acyclic Graph of this Data Pipeline](https://raw.githubusercontent.com/gabfr/data-engineering-nanodegree/master/4-data-pipelines-with-airflow/L4_project/images/dag.png)
+![Directed Acyclic Graph of this Data Pipeline](https://github.com/rishabh4312/data-pipeline-with-airflow/blob/main/images/dag.png)
 
 Briefly talking about this ELT process: 
  - Stages the raw data;
